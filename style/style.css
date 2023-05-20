@@ -1,0 +1,358 @@
+body {
+
+    font-family: "FranklinGot", sans-serif;
+
+}
+
+nav {
+    background: #344051
+}
+
+.row_naw {
+    height: 60px;
+
+}
+
+.logo_ {
+    color: #fff;
+
+    font-size: 30px;
+}
+
+.nav_menu_ {
+
+    color: white;
+    text-transform: uppercase;
+    list-style-type: none;
+
+}
+
+.nav_menu_ a {
+    text-decoration: none;
+    color: #fff;
+
+}
+
+.h1 {
+    font-size: 52px;
+    color: #223549;
+}
+
+h3 {
+    font-size: 18px;
+    color: #cf7600;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.mainer {
+    margin-top: 60px;
+    background: url(../img/boy.png) 90% 100%/auto 85% no-repeat, url(../img/fon.jpg) center/cover no-repeat;
+
+}
+
+h5 {
+    font-size: 14px;
+    color: #76828e;
+}
+
+
+
+.btn_1 {
+    min-width: 96px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin-top: 58px;
+    margin-right: 28px;
+
+
+}
+
+.btn_2 {
+    min-width: 126px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin-top: 58px;
+}
+
+h2 {
+    font-size: 22px;
+    color: #263244;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.lorem_str2 {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #3f495a;
+    font-size: 16px;
+
+}
+
+.download_resume {
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+    padding-left: 33px;
+    padding-right: 11px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border: 2px solid #6f707e;
+    border-radius: 6px;
+    background: url(../img/icon.png) no-repeat;
+    background-position: 11px;
+    max-width: 170px;
+
+}
+
+.section_3 {
+    min-height: 520px;
+    height: auto;
+    background: url(../img/fon2.jpg) fixed center/cover no-repeat;
+}
+
+.open_cloud {
+    max-width: 100%;
+    margin-bottom: 40px;
+}
+
+.block_whats_i_do {
+    margin-top: 100px;
+}
+
+.str5 {
+    margin-left: 10px;
+    -webkit-box-shadow: 0px 0px 8px 10px rgba(34, 60, 80, 0.41);
+    -moz-box-shadow: 0px 0px 8px 10px rgba(34, 60, 80, 0.41);
+    box-shadow: 0px 0px 8px 10px rgba(34, 60, 80, 0.41);
+
+}
+
+.block_1 {
+    padding-left: 10px;
+}
+
+.cost_calulation {
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+
+
+h4 {
+
+    color: #1c2534;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+
+}
+
+
+
+.tip_site {
+
+    width: 100%;
+    height: 60px;
+    background-color: #eeeeee;
+
+}
+
+.visit_live_site {
+    width: 200px;
+    background-color: #63b5ae;
+    height: 40px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    border-radius: 5px;
+    transition: all 0.1s;
+    transform: scale(1);
+}
+
+.visit_live_site:active {
+    transform: scale(1.2);
+
+}
+
+.come_statistics {
+    min-height: 500px;
+    background: url(../img/fon2.jpg) center/cover no-repeat fixed;
+    background-size: 100% 100%;
+    margin-bottom: 100px;
+}
+
+.my_contacts {
+
+    background: url(../img/fon3.jpg) center/cover no-repeat;
+
+}
+
+
+
+
+
+
+.adress_mail_number {
+
+    margin-bottom: 50px;
+    margin-top: 50px;
+    width: 100%;
+
+}
+
+address {
+    width: 160px;
+
+}
+
+.adress_1 {
+    width: 160px;
+
+
+}
+
+.spb {
+    font-size: 13px;
+    color: white;
+}
+
+.feedback {
+    color: white;
+
+    font-size: 17px;
+
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+.name {
+    width: 100%;
+    height: 40px;
+    background-color: #d2d6dc;
+}
+
+.number {
+    width: 100%;
+    height: 40px;
+    background-color: #d2d6dc;
+
+}
+
+.mail1 {
+    margin-top: 30px;
+
+}
+
+.mail {
+    height: 100px;
+    width: 100%;
+    background-color: #d2d6dc;
+}
+
+.copyright {
+    height: 100px;
+
+    padding-top: 50px;
+    background-color: #354051;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bebra {
+
+    margin-top: 30px;
+    color: white;
+    background: none;
+
+    height: 50px;
+    width: 120px;
+    font-size: 20px;
+    border: 1px white solid;
+    border-radius: 5px;
+    margin-bottom: 80vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:0px) and (max-width:1192px) {
+    .mainer {
+        color: #fff;
+        position: relative;
+
+    }
+
+    .h1 {
+        color: #fff;
+    }
+
+    .btn_1 {
+        color: #fff;
+        position: relative;
+        border-color: #fff;
+
+    }
+
+    .btn_2 {
+        color: #fff;
+        position: relative;
+        border-color: #fff;
+    }
+
+
+
+    .mainer::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        background: rgba(0, 0, 0, 0.6);
+        z-index: 1;
+        height: 100vh;
+    }
+
+    .beb {
+        position: relative;
+        z-index: 2;
+    }
+
+    h5 {
+        color: #fff;
+    }
+}
